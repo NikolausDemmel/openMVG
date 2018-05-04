@@ -130,7 +130,7 @@ using Mat3X = Eigen::Matrix<double, 3, Eigen::Dynamic>;
 /// 4xN matrix using double internal format
 using Mat4X = Eigen::Matrix<double, 4, Eigen::Dynamic>;
 
-/// 9xN matrix using double internal format
+/// Nx9 matrix using double internal format
 using MatX9 = Eigen::Matrix<double, Eigen::Dynamic, 9>;
 
 //-- Sparse Matrix (Column major, and row major)
