@@ -4,6 +4,7 @@
 #include <tuple>
 #include <utility>
 #include <vector>
+#include <memory>
 
 // fwrd declaration
 namespace openMVG
